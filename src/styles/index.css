@@ -51,6 +51,7 @@ h4 {
 .onda2{
   position: absolute;
   top: 2000px;
+  z-index: 2;
 }
 
 .imgOnda2{
