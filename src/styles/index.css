@@ -38,3 +38,21 @@ h4 {
   display: flex;
   flex-wrap: wrap;
 }
+
+.onda1{
+  position: absolute;
+  top: 470px;
+}
+
+.imgOnda1{
+  width: 1600rem;
+}
+
+.onda2{
+  position: absolute;
+  top: 2000px;
+}
+
+.imgOnda2{
+  width: 1600rem;
+}
