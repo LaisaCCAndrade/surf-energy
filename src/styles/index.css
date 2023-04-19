@@ -43,7 +43,8 @@ h4 {
 
 .onda1{
   position: absolute;
-  top: 470px;
+  top: 827px;
+  /* top: 470px; */
 }
 
 .imgOnda1{
@@ -52,10 +53,125 @@ h4 {
 
 .onda2{
   position: absolute;
-  top: 2000px;
+  top: 4153px;
+  /* top: 2000px; */
   z-index: 2;
 }
 
 .imgOnda2{
   width: 1600rem;
+}
+
+@media(min-width: 322px){
+  .onda2{
+    top: 4124px;
+  }
+}
+
+@media(min-width: 323px){
+  .onda2{
+    top: 4103px;
+  }
+}
+
+@media(min-width: 324px){
+  .onda2{
+    top: 4078px;
+  }
+}
+
+@media(min-width: 330px){
+  .onda1{
+    top: 825px;
+  }
+
+  .onda2{
+    top: 4044px;
+  }
+}
+
+@media(min-width: 331px){
+  .onda1{
+    top: 792px;
+  }
+
+  .onda2{
+    top: 4012px;
+  }
+}
+
+@media(min-width: 352px){
+  .onda2{
+    top: 3986px;
+  }
+}
+
+@media(min-width: 450px){
+  .onda1{
+    top: 709px;
+  }
+}
+
+@media(min-width: 452px){
+  .onda2{
+    top: 3919px;
+  }
+}
+
+@media(min-width: 472px){
+  .onda1{
+    top: 707px;
+  }
+}
+
+@media(min-width: 473px){
+  .onda2{
+    top: 3885px;
+  }
+}
+
+@media(min-width: 477px){
+  .onda1{
+    top: 609px;
+  }
+
+  .onda2{
+    top: 3824px;
+  }
+}
+
+@media(min-width: 776px){
+  .onda2{
+    top: 2587px;
+  }
+}
+
+@media(min-width: 820px){
+  .onda1{
+    top: 588px;
+  }
+}
+
+@media(min-width: 1085px){
+  .onda1{
+    top: 548px;
+  }
+}
+
+@media(min-width: 1200px){
+  .onda2{
+    top: 1987px;
+  }
+}
+
+@media(min-width: 1300px){
+  .onda1{
+    top: 496px;
+  }
+}
+
+@media(min-width: 1968px){
+  .onda1{
+    top: 389px;
+  }
 }
